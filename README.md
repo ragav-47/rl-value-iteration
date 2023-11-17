@@ -1,4 +1,4 @@
-# VALUE ITERATION ALGORITHM:
+# <p align="center"> VALUE ITERATION ALGORITHM:
 
 ## AIM:
 The aim of this experiment is to apply the Value Iteration algorithm to find the optimal policy for the FrozenLake-v1 Markov Decision Process (MDP) and evaluate its performance.
